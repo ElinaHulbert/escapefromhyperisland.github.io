@@ -27,11 +27,11 @@ const WORLD = {
 			},
 		},
 		{
-			title: 'The Headquarters',
-			url: 'https://escapefromhyperisland.github.io/world-8/elin/',
+			title: 'Hyper Island',
+			url: 'https://escapefromhyperisland.github.io/fed23-world-8/elina/',
 			author: {
-				name: 'Elin Nordin',
-				link: 'https://elinnordin.com/',
+				name: 'Elina Hulbert',
+				link: 'https://jade-gelato-839447.netlify.app/',
 			},
 		},
 	],
